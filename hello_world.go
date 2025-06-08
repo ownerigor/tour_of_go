@@ -5,5 +5,12 @@ func main() {
 	myFavoriteNumber()
 	testImports()
 	exportedNames()
-	sumNumber()
+	//sumNumber()
+	multipleResults()
+	namedResults()
+	usedVariables()
+	usedVariablesInitializers()
+	shortDeclarations()
+	exploreBasicTypes()
+	zeroInGo()
 }

@@ -4,7 +4,7 @@ import "fmt"
 
 var number1, number2 int
 
-func add(x int, y int) int {
+func add(x, y int) int {
 	return x + y
 }
 
